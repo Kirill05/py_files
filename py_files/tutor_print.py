@@ -1,3 +1,6 @@
+import math
 a = 12
 b =-120
-print(a*b)
+c = math.sin(a/b)
+print("Otvet takoi:")
+print(a*b-c)
